@@ -1,0 +1,11 @@
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  width: 400px;
+  justify-content: space-between;
+}
+
+.wrapper-small {
+  display: flex;
+  flex-direction: column;
+}
